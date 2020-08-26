@@ -1,0 +1,26 @@
+.banner{
+background-color: #d6edfb;
+width: 100%;
+height: 90px;
+}
+.content{
+text-align: center;
+font-family:  'Calibri' ;
+}
+.public{
+margin: auto;
+font-size: 110%;
+width: 85%;
+}
+
+
+.title{
+font-family:  'Calibri' ;
+font-size: 160%;
+color: #47bfbd;
+}
+.footer{
+    background-color: #f3f6f9;
+    width: 100%;
+    height: 250px;
+    }
